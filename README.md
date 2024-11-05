@@ -34,6 +34,7 @@ This is where we include some basic lines of code or queries or some of the DAX 
 
 ...SQL
 Select* from [dbo].[SalesData]
+WHERE CONDITION= True
 
 
  
