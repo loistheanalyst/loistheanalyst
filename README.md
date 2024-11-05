@@ -36,6 +36,11 @@ This is where we include some basic lines of code or queries or some of the DAX 
 Select* from [dbo].[SalesData]
 WHERE CONDITION= True
 
+## Result and findings
+
+## Recommendations
+
+## Limitations
 
  
 
